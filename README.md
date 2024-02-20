@@ -35,3 +35,12 @@ When a user enters their email address, it's added to the section of the README 
 
 ## Screenshot
 
+![image](https://github.com/bentiger1904/README-Generator/assets/150267998/45196a2e-272d-4948-afb1-23b988718391)
+
+## Video walkthrough
+
+https://www.loom.com/share/fbf3528e7f774749bde1baee763970dd?sid=1f2e6ec9-23ef-4022-838b-4f170d0825e2
+
+## License 
+
+MIT
